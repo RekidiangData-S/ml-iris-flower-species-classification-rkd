@@ -8,3 +8,8 @@ ml-iris-flower-species-classification-rkd
 + modify flask app (logo, about page ...)
 + from this project make a project for load prediction (voir inspiration about page)
 + deploy on the web
+
+
+
+
+![alt text for screen readers](/path/to/image.png "Text to show on mouseover")
