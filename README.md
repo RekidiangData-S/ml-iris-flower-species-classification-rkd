@@ -1,7 +1,7 @@
 ![alt text for screen readers](/accessoirs/data_logo_resized.png "Text to show on mouseover")
 
-# ml-iris-flower-species-classification-rkd
-ml-iris-flower-species-classification-rkd
+# Iris Flower Species Classification
+
 ### A faire
 
 + make data documentation
