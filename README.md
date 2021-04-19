@@ -10,6 +10,7 @@ ml-iris-flower-species-classification-rkd
 + modify flask app (logo, about page ...)
 + from this project make a project for load prediction (voir inspiration about page)
 + deploy on the web
++ make requirement file
 
 
 
