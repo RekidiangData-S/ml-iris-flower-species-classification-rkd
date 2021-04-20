@@ -49,13 +49,7 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/joechang0113/socialpage -->
 
-不要懷疑，請全部貼上，雖然這個在你的 .md 上會佔據一定的版面，但是為了效果就讓步吧！
 
-這時候你的頁面應該已經有這些 social media links 了
-
-alt text alt text alt text alt text alt text alt text
-替換 social media links
-來做點簡單的 🔗鏈結 替換
 
 [1]: https://www.instagram.com/joechang0113
 [2]: http://www.facebook.com/joechang0113
