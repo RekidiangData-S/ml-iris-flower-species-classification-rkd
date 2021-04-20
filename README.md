@@ -1,4 +1,4 @@
-![alt text for screen readers](/accessoirs/data_logo_resized.png "Text to show on mouseover")
+<-- ![alt text for screen readers](/accessoirs/data_logo_resized.png "Text to show on mouseover") -->
 
 # Iris Flower Species Classification
 
