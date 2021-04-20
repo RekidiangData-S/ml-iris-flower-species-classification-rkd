@@ -15,4 +15,4 @@
 
 
 
-![alt text for screen readers](/accessoirs/my_ethiquette.jpg "Text to show on mouseover")
+![alt text for screen readers](/accessoirs/rkd_etiquette.png "Text to show on mouseover")
