@@ -6,7 +6,9 @@ Author: Kiese D. Reagan
 Date: 19/04/2021
 
 We build a simple model using the iris data set for iris flower classification. 
-This project is organized as follows: 
+This project is organized as follows (See analyse_and_training.pynb) : 
+
+## Project Organization
 
 (a) data preprocessing and variable selection; 
 (b) basic regression model; 
@@ -15,23 +17,19 @@ This project is organized as follows:
 
 ## Repositories and Contents
 
-### Data
-+ iris.csv
-+ iris_prep.csv
-+ data_documentation.pdf
-
-### Analyse and Training
-* data
+* Data
   + iris.csv
   + iris_prep.csv
   + data_documentation.pdf
-* analyse_and_training.pynb
 
-### Deployement
-
-cruise_ship_info.csv: dataset used for model building.
-
-Ship_Crew_Size_ML_Model.ipynb: the jupyter notebook containing code.
+* Analyse and Training
+  + model
+  + functions_utils.py
+  + analyse_and_training.pynb
+ 
+* Deployement
+  + with_flask
+  + with_steamlit
 
 
 ### A faire
