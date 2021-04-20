@@ -5,8 +5,8 @@
 Author: Kiese D. Reagan
 Date: 19/04/2021
 
-We build a simple model using the iris data set for iris flower classification. 
-This project is organized as follows (See analyse_and_training.pynb) : 
+> We Automate the classification of iris flower species as [virginica, setosa or versicolor] based on sepal length, sepal width
+     petal length, petal width provided by online user.
 
 ## Project Organization
 
