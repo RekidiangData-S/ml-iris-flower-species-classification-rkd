@@ -45,7 +45,7 @@
 [3]: https://twitter.com/joechang0113
 [4]: http://weibo.com/7331813538/profile
 [5]: https://github.com/joechang0113
-[6]: https://medium.com/@joechang0113
+[6]: https://medium.com/@rkddatas
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/joechang0113/socialpage -->
 
