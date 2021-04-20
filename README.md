@@ -38,6 +38,8 @@ This project is organized as follows (See analyse_and_training.pynb) :
   + plain_python
   + with_flask
   + with_steamlit
+* Report
+* requirements.txt
 
 
 ### A faire
