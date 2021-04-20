@@ -40,10 +40,9 @@
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-<!-- [1]: https://www.instagram.com/joechang0113 -->
+
 [2]: http://www.facebook.com/joechang0113
 [3]: https://twitter.com/ReaganKiese
-<!-- [4]: http://weibo.com/7331813538/profile -->
 [5]: https://github.com/RekidiangData-S
 [6]: https://medium.com/@rkddatas
 
