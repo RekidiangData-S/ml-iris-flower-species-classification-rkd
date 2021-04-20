@@ -2,6 +2,38 @@
 
 # Iris Flower Species Classification
 
+Author: Kiese D. Reagan
+Date: 19/04/2021
+
+We build a simple model using the iris data set for iris flower classification. 
+This project is organized as follows: 
+
+(a) data preprocessing and variable selection; 
+(b) basic regression model; 
+(c) hyper-parameters tuning; and 
+(d) techniques for dimensionality reduction.
+
+## Repositories and Contents
+
+### Data
++ iris.csv
++ iris_prep.csv
++ data_documentation.pdf
+
+### Analyse and Training
+* data
+  + iris.csv
+  + iris_prep.csv
+  + data_documentation.pdf
+* analyse_and_training.pynb
+
+### Deployement
+
+cruise_ship_info.csv: dataset used for model building.
+
+Ship_Crew_Size_ML_Model.ipynb: the jupyter notebook containing code.
+
+
 ### A faire
 
 + make data documentation
