@@ -10,10 +10,17 @@ This project is organized as follows (See analyse_and_training.pynb) :
 
 ## Project Organization
 
-(a) data preprocessing and variable selection; 
-(b) basic regression model; 
-(c) hyper-parameters tuning; and 
-(d) techniques for dimensionality reduction.
+* step1 :  Importing Packages
+* step2 :  Loading the data
+* step3 : Exploratory Data Analysis (EDA)
+* step4 : Data Preparation
+* step5 : Build and Train the model
+* step6 : Model prediction and Evaluation
+* step7 : Model Improvement
+* step8 : Model Deployment
+
+
++ Add to Model Improvement:=> techniques for dimensionality reduction.
 
 ## Repositories and Contents
 
@@ -28,6 +35,7 @@ This project is organized as follows (See analyse_and_training.pynb) :
   + analyse_and_training.pynb
  
 * Deployement
+  + plain_python
   + with_flask
   + with_steamlit
 
