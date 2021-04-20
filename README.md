@@ -18,10 +18,9 @@
 ![alt text for screen readers](/accessoirs/rkd_etiquette.png "Text to show on mouseover")
 
 
-[![alt text][1.1]][1]
+
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
-[![alt text][4.1]][4]
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
 
