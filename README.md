@@ -40,7 +40,7 @@
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: https://www.instagram.com/joechang0113
+<!-- [1]: https://www.instagram.com/joechang0113 -->
 [2]: http://www.facebook.com/joechang0113
 [3]: https://twitter.com/ReaganKiese
 <!-- [4]: http://weibo.com/7331813538/profile -->
@@ -48,12 +48,3 @@
 [6]: https://medium.com/@rkddatas
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/joechang0113/socialpage -->
-
-
-
-[1]: https://www.instagram.com/joechang0113
-[2]: http://www.facebook.com/joechang0113
-[3]: https://twitter.com/joechang0113
-[4]: http://weibo.com/7331813538/profile
-[5]: https://github.com/joechang0113
-[6]: https://medium.com/@joechang0113
