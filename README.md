@@ -12,8 +12,7 @@
 + deploy on the web
 + make requirement file
 
-
-
+---
 
 ![alt text for screen readers](/accessoirs/rkd_etiquette.png "Text to show on mouseover")
 
