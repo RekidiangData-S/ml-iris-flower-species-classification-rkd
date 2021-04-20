@@ -51,7 +51,9 @@ Date: 19/04/2021
 
 ---
 
- 
+![alt text for screen readers](/accessoirs/rkd_etiquette.png "Text to show on mouseover")
+
+ > Follow Me
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
