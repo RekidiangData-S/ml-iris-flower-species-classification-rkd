@@ -30,10 +30,10 @@
 
 <!-- icons with padding -->
 
-<!-- [1.1]: https://i.imgur.com/GmxhYO0.png (instagram icon with padding) -->
+
 [2.1]: https://i.imgur.com/oFsAcMx.png (facebook icon with padding)
 [3.1]: https://i.imgur.com/YCdR3o9.png (twitter icon with padding)
-<!-- [4.1]: https://i.imgur.com/AYLF0go.png (weibo icon with padding) -->
+
 [5.1]: https://i.imgur.com/5BWvIrF.png (github icon with padding)
 [6.1]: https://i.imgur.com/UA7Oh6z.png (medium icon with padding)
 
