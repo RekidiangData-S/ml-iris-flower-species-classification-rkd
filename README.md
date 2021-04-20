@@ -19,9 +19,6 @@ This project is organized as follows (See analyse_and_training.pynb) :
 * step7 : Model Improvement
 * step8 : Model Deployment
 
-
-+ Add to Model Improvement:=> techniques for dimensionality reduction.
-
 ## Repositories and Contents
 
 * Data
